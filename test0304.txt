@@ -1,2 +1,3 @@
 test b
 2. zmiana 10:13
+3. zmiana z 10:30
