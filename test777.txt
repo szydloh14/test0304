@@ -4,4 +4,8 @@ z Total Comander 777
 
 Godz. 13:00
 Odpowiedź z 13:04
+<<<<<<< HEAD
 Dzisiaj 05.03.2025
+=======
+teraz 11:24
+>>>>>>> 90b42313e5c7f872fcc1c85847fe10b708b11575
