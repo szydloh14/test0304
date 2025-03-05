@@ -10,9 +10,8 @@ z VS 11:48
 Szydłowski Hieronim
 ------> 12:10
 -----------------
-<<<<<<< HEAD
-z Total Comanderz Total Comander
 =======
 z Total Comander
->>>>>>> 1b2f8f82768153edf3a0330de9858941434895ab
-aaaa
+xxxxxxxxxxxxxxxxxxxx
+12:20
+
